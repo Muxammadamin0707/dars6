@@ -9,15 +9,12 @@ if (amal === "+"); {
 
 if (amal === "-"); {
     let yigindi = son1 - son2;
-    alert(son1 + " - " + son2 + " = " + yigindi);
 }
 
 if (amal === "*"); {
     let yigindi = son1 * son2;
-    alert(son1 + " * " + son2 + " = " + yigindi);
 }
 
 if (amal === "/"); {
-    let yigindi = son1 + son2;
-    alert(son1 + " / " + son2 + " = " + yigindi);
+    let yigindi = son1 / son2;
 }
